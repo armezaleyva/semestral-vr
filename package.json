@@ -1,0 +1,24 @@
+{
+  "name": "webxr-app",
+  "version": "1.0.0",
+  "description": "webxr-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armezaleyva/webxr-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armezaleyva/webxr-app/issues"
+  },
+  "homepage": "https://github.com/armezaleyva/webxr-app#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
